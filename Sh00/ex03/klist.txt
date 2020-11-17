@@ -1,0 +1,5 @@
+Credentials cache: API:28CF0A78-8F63-4B90-895E-3E3F6C495B8A
+        Principal: acilione@42ROMA.IT
+
+  Issued                Expires               Principal
+Oct 20 20:07:35 2020  Oct 21 06:07:26 2020  krbtgt/42ROMA.IT@42ROMA.IT
