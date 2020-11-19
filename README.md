@@ -25,6 +25,8 @@ All of my work done during the School 42 Piscine in Rome, November 2020.
 
     C09 : 100%
 
+    C11 : 100%
+    
     R00 : 40% (newlines printed when negative numbers are entered in input)
 
     R02 : 20% (does not print the 0)
